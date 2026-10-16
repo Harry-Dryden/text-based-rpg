@@ -1,0 +1,62 @@
+[
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\main.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\main.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/main.cpp",
+  "output": "CMakeFiles/game.dir/src/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Game.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Game.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Game.cpp",
+  "output": "CMakeFiles/game.dir/src/Game.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Logger.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Logger.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Logger.cpp",
+  "output": "CMakeFiles/game.dir/src/Logger.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Character.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Character.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Character.cpp",
+  "output": "CMakeFiles/game.dir/src/Character.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Player.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Player.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Player.cpp",
+  "output": "CMakeFiles/game.dir/src/Player.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\NPC.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\NPC.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/NPC.cpp",
+  "output": "CMakeFiles/game.dir/src/NPC.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\States.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\States.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/States.cpp",
+  "output": "CMakeFiles/game.dir/src/States.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Output.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Output.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Output.cpp",
+  "output": "CMakeFiles/game.dir/src/Output.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Room.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Room.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Room.cpp",
+  "output": "CMakeFiles/game.dir/src/Room.cpp.obj"
+},
+{
+  "directory": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/game.dir/includes_CXX.rsp -g -std=gnu++20 -o CMakeFiles\\game.dir\\src\\Adjectives.cpp.obj -c C:\\Users\\Bland\\OneDrive\\Documents\\RPG\\Text-Based-Prototype\\src\\Adjectives.cpp",
+  "file": "C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/src/Adjectives.cpp",
+  "output": "CMakeFiles/game.dir/src/Adjectives.cpp.obj"
+}
+]
