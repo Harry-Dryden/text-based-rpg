@@ -1,3 +1,0 @@
-C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build/CMakeFiles/game.dir
-C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build/CMakeFiles/edit_cache.dir
-C:/Users/Bland/OneDrive/Documents/RPG/Text-Based-Prototype/build/CMakeFiles/rebuild_cache.dir
